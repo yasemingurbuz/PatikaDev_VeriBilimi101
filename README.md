@@ -2,7 +2,7 @@
 Data'yı buradan inceleyebilirisiniz:
 [Television Brands Ecommerce Dataset](https://www.kaggle.com/devsubhash/television-brands-ecommerce-dataset)
 
-[### decition_tree](https://github.com/yasemingurbuz/PatikaDev_VeriBilimi101/blob/main/decision_tree.ipynb)
+### [decition_tree](https://github.com/yasemingurbuz/PatikaDev_VeriBilimi101/blob/main/decision_tree.ipynb)
 1. Data'yı çekyoruz.
 2. İlk bölmede tabloyu TV boyutunun 60'tan küçük olarak bölüyoruz.
 3. İkinci bölmede tablodan TV boyutunun 60'tan büyük olanların içinde 70'den büyük olarak bölüyoruz.
